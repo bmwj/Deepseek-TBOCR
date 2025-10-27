@@ -1,0 +1,38 @@
+# filepath: /root/autodl-tmp/deepseek-TBocr/.gitignore
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual envs
+.env
+venv/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+
+# Data, models, checkpoints, outputs
+data/
+datasets/
+models/
+checkpoints/
+logs/
+outputs/
+weights/
+*.pt
+*.pth
+*.ckpt
+*.h5
+*.npz
+*.tar.gz
+
+# OS
+.DS_Store
+Thumbs.db
+deepseek-ai/DeepSeek-OCR/model-00001-of-000001.safetensors
+# Archives
+*.zip
+*.tar
