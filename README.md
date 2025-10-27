@@ -3,8 +3,8 @@
   <img src="assets/logo.svg" width="60%" alt="DeepSeek AI" />
 </div>
 
-
 <hr>
+
 <div align="center">
   <a href="https://www.deepseek.com/" target="_blank">
     <img alt="Homepage" src="assets/badge.svg" />
@@ -12,28 +12,23 @@
   <a href="https://huggingface.co/deepseek-ai/DeepSeek-OCR" target="_blank">
     <img alt="Hugging Face" src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-DeepSeek%20AI-ffc107?color=ffc107&logoColor=white" />
   </a>
-
 </div>
 
 <div align="center">
-
   <a href="https://discord.gg/Tc7c45Zzu5" target="_blank">
     <img alt="Discord" src="https://img.shields.io/badge/Discord-DeepSeek%20AI-7289da?logo=discord&logoColor=white&color=7289da" />
   </a>
   <a href="https://twitter.com/deepseek_ai" target="_blank">
     <img alt="Twitter Follow" src="https://img.shields.io/badge/Twitter-deepseek_ai-white?logo=x&logoColor=white" />
   </a>
-
 </div>
-
-
 
 <p align="center">
   <a href="https://huggingface.co/deepseek-ai/DeepSeek-OCR"><b>📥 Model Download</b></a> |
   <a href="https://github.com/deepseek-ai/DeepSeek-OCR/blob/main/DeepSeek_OCR_paper.pdf"><b>📄 Paper Link</b></a> |
-  <a href="https://arxiv.org/abs/2510.18234"><b>📄 Arxiv Paper Link</b></a> |
+  <a href="https://arxiv.org/abs/2510.18234"><b>📄 Arxiv Paper Link</b></a>
 </p>
-<p style="font-size: 18px;">
+<p style="font-size: 15px;">
 DeepSeek-OCR是深度求索（DeepSeek）基于前沿深度学习技术开发的多模态文字识别系统。该系统通过AI模型实现对图像/视频中文字信息的精准检测、识别与结构化处理。与依赖固定规则的传统OCR不同，DeepSeek-OCR整合了计算机视觉（CV）、自然语言处理（NLP）和多模态大模型技术，能够智能理解文字上下文，显著提升识别准确率。
 此外，DeepSeek-OCR开创性地提出了"光学压缩"概念：将文本转化为图像，用仅需10-20%的视觉token即可表示相同内容。这种创新方式有效解决了大语言模型（LLM）处理长文本的瓶颈。其三级架构（局部感知→内容压缩→全局理解）有望重塑未来LLM的输入模式，使像素成为比文本更高效的信息载体。
 </p>
