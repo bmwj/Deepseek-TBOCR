@@ -128,6 +128,13 @@ python run_dpsk_ocr_pdf.py
   <img src="assets//image copy 5.png" width="100%" alt="flash-attn" />
 </div>
 
+<div align="center">
+
+### ⭐ 如果这个项目对您有帮助，请给我们一个Star！
+
+[![Star History Chart](https://api.star-history.com/svg?repos=bmwj/Deepseek-TBOCR&type=Date)](https://star-history.com/#bmwj/Deepseek-TBOCR&Date)
+
+</div>
 
 
 
